@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning data cleansing and visualization 
 - 💞️ I’m looking to collaborate on LinkedIn 
-- 📫 How to reach me @kareemat7
+- 📫 How to reach me kareematabiola@gamil.com
 
 <!---
 Kareemat7/Kareemat7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
