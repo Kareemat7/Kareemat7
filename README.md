@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Karimat Salaudeen 
+- 👋 Hi, I’m Karimat Salaudeen, junior data analyst.
 - 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning data cleansing and visualization 
+- 🌱 I'm proficient at MsExcel,SQL,and Powerbi. 
 - 💞️ I’m looking to collaborate on LinkedIn 
-- 📫 How to reach me kareematabiola@gamil.com
+- 📫 You can reach me @kareematabiola@gamil.com.
+
+## **CERTIFICATION**
+BLACTECH:Immersive Data Analytics Program.
+
+## **CORE STRENGTHS AND SKILLS**
+
+Software Tools: MsExcel, SQL(Azure Data Studio,SQL Server), PowerBi, and Python.
+
+Skills:Data Extraction and cleanzing, Data visualization,Data interpretation and Report writing.
+
+
 
 <!---
 Kareemat7/Kareemat7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
