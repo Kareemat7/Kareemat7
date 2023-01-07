@@ -5,8 +5,8 @@
 - 📫 You can reach me @kareematabiola@gamil.com.
 
 ## **CERTIFICATION**
-BLACTECH:Immersive Data Analytics Program.
-Coursera:Google Data Analytics Certification.
+-BLACTECH:Immersive Data Analytics Program.
+-Coursera:Google Data Analytics Certification.
 
 ## **CORE STRENGTHS AND SKILLS**
 
