@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karimat Salaudeen, junior data analyst.
-- 👀 I’m interested in data analytics 
-- 🌱 I'm proficient at MsExcel,SQL,and Powerbi. 
+- 👀 I’m interested in data analytics. 
+- 🌱 I'm proficient at MsExcel,Google Sheet,SQL and PowerBi. 
 - 💞️ I’m looking to collaborate on LinkedIn 
 - 📫 You can reach me @kareematabiola@gamil.com.
 
